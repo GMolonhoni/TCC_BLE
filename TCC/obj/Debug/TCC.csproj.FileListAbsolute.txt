@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\TCC\TCC\bin\Debug\TCC.exe.config
+C:\Users\Gabriel\Desktop\TCC\TCC\bin\Debug\TCC.exe
+C:\Users\Gabriel\Desktop\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\Gabriel\Desktop\TCC\TCC\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\Gabriel\Desktop\TCC\TCC\bin\Debug\Windows.winmd
+C:\Users\Gabriel\Desktop\TCC\TCC\bin\Debug\System.Runtime.WindowsRuntime.xml
+C:\Users\Gabriel\Desktop\TCC\TCC\obj\Debug\TCC.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\TCC\TCC\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\TCC\TCC\obj\Debug\TCC.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\TCC\TCC\obj\Debug\TCC.exe
+C:\Users\Gabriel\Desktop\TCC\TCC\obj\Debug\TCC.pdb
+C:\Users\Gabriel\Desktop\TCC\TCC\obj\Debug\TCC.PrincipalForm.resources
